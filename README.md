@@ -1,0 +1,2 @@
+# Xmaster
+Desktop POS application
